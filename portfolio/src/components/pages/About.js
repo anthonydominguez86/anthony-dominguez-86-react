@@ -20,7 +20,7 @@ function About() {
           <br></br>
           <a class="link" href="https://www.linkedin.com/in/anthony-dominguez-4884529b/" target="Linked In">Linked In</a>
           <br></br>
-          <a class= "link" href="./assets/Resume Anthony Dominguez.docx" download>Resume</a>
+          <a class= "link" href="./assets/Resume Anthony Dominguez.docx" download="Resume">Resume</a>
           <hr></hr>
           <br></br>
         </p> 
