@@ -1,21 +1,41 @@
 import React from 'react'
+import { Link, useLocation } from "react-router-dom";
 // import './style.css'
 
 function Navbar(){
+
+    const location = useLocation();
+
+
     return (
         <nav class="navbar navbar-expand-lg navbar-dark" style={{backgroundColor: "black"}}>        
         <div class="container-fluid">
-          <a class="navbar-brand" href="index.html">Anthony Dominguez</a>
+        <Link
+          to="/about"
+          className={location.pathname === "/about" ? "nav-link active" : "nav-link"}
+        >
+          Anthony Dominguez
+        </Link>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav"> 
+            <ul class="nav nav-bar"> 
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact</a>
+        <Link
+          to="/contact"
+          className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}
+        >
+          Contact
+        </Link>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="portfolio.html">Portfolio</a>
+        <Link
+          to="/portfolio"
+          className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
+        >
+          Portfolio
+        </Link>
               </li>
             </ul>
           </div>
