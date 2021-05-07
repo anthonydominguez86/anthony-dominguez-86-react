@@ -3,6 +3,7 @@ import React from "react";
 function About() {
     return(
     <div>
+    <section>
     <h1>About Me</h1> 
     <hr></hr>        
     <img src="./assets/adominguez.jpg" class="rounded float-start img-fluid" alt="adominguez.jpg" style={{padding:"10px"}} width= "150" height="200"></img>
@@ -15,12 +16,15 @@ function About() {
           I believe this will make me a great web developer and I am anxious to be able to add to this portfolio and make it a showcase for my newly acquired talent and for my new career. 
           Please enjoy my work with professional links below as well as some screenshots of my work in the portfolio link above. 
           <hr></hr>
-          <a class="nav-link" href="https://github.com/anthonydominguez86" target="Git Hub">Git Hub</a>
-          <a class="nav-link" href="https://www.linkedin.com/in/anthony-dominguez-4884529b/" target="Linked In">Linked In</a>
-          <a class= "nav-link" href="./assets/Resume Anthony Dominguez.docx" download>Resume</a>
+          <a class="link" href="https://github.com/anthonydominguez86" target="Git Hub">Git Hub</a>
+          <br></br>
+          <a class="link" href="https://www.linkedin.com/in/anthony-dominguez-4884529b/" target="Linked In">Linked In</a>
+          <br></br>
+          <a class= "link" href="./assets/Resume Anthony Dominguez.docx" download>Resume</a>
           <hr></hr>
           <br></br>
         </p> 
+        </section>
     </div>
 );
 }

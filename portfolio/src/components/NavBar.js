@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link, useLocation } from "react-router-dom";
-// import './style.css'
+import './style.css'
 
 function Navbar(){
 
@@ -14,7 +14,7 @@ function Navbar(){
           to="/about"
           className={location.pathname === "/about" ? "nav-link active" : "nav-link"}
         >
-          Anthony Dominguez
+          <h4>Anthony Dominguez</h4>
         </Link>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
