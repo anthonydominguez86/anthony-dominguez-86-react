@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "../assets/adominguez.jpg"
 
 function About() {
     return(
@@ -6,7 +7,7 @@ function About() {
     <section>
     <h1>About Me</h1> 
     <hr></hr>        
-    <img src="./assets/adominguez.jpg" class="rounded float-start img-fluid" alt="adominguez.jpg" style={{padding:"10px"}} width= "150" height="200"></img>
+    <img src={Image} class="rounded float-start img-fluid" alt="adominguez.jpg" style={{padding:"10px"}} width= "150" height="200"></img>
         <p>
           I started my career as a chef but I am now changing that career to be a full stack web developer. 
           About six months ago I became very interested in the field and started doing some extensive research 

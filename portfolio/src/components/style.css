@@ -79,11 +79,12 @@ body {
     height: 900px;
     width: 800px;
     margin: 0 auto;
-    padding-left: 110px;
+    padding-left: 50px;
+    padding-right: 50px;
   }
   
   footer {
-    background-color:white;
+    background-color:#e8f8fd;
     position:fixed;
     bottom: 0;
     width: 100%;

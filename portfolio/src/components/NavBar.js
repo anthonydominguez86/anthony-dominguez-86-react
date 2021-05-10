@@ -11,6 +11,11 @@ function Navbar(){
         <nav class="navbar navbar-expand-lg navbar-dark" style={{backgroundColor: "black"}}>        
         <div class="container-fluid">
         <Link
+          to="/"
+          className={location.pathname === "/" ? "nav-link active" : "nav-link"}
+        >
+        </Link>
+        <Link
           to="/about"
           className={location.pathname === "/about" ? "nav-link active" : "nav-link"}
         >
