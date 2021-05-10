@@ -11,21 +11,21 @@ body {
       background: #dae0e8;
       }
       25% {
-      background: #73716e;
+      background: #baeffe;
       }
       50% {
-      background: #4e4d48;
+      background: #e7f9fd;
       }
       75% {
-      background: #73716e;
+      background: #023ad2;
       }
       100% {
-      background: #464441;
+      background: #51a6fc;
       }
   }
   
   body {
-    background-image: url("./assets/websimple.jpg");
+    background-image: url("./assets/bluebackground.jpg");
     background-repeat:repeat-y; 
     background-repeat:round;
     background-position:unset;
