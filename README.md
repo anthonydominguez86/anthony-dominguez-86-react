@@ -26,4 +26,4 @@ React, React, React. Learn it, Understand it, Code it.
 
 # Screenshots: 
 
-# Deployedment URL:
+# Deployment URL:
