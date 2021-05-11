@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/anthony-dominguez-86-react/static/css/main.6e99167f.chunk.css",
-    "main.js": "/anthony-dominguez-86-react/static/js/main.33e2a006.chunk.js",
-    "main.js.map": "/anthony-dominguez-86-react/static/js/main.33e2a006.chunk.js.map",
+    "main.css": "/anthony-dominguez-86-react/static/css/main.49688e87.chunk.css",
+    "main.js": "/anthony-dominguez-86-react/static/js/main.c5b0d3ef.chunk.js",
+    "main.js.map": "/anthony-dominguez-86-react/static/js/main.c5b0d3ef.chunk.js.map",
     "runtime-main.js": "/anthony-dominguez-86-react/static/js/runtime-main.2670e39b.js",
     "runtime-main.js.map": "/anthony-dominguez-86-react/static/js/runtime-main.2670e39b.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/anthony-dominguez-86-react/static/css/2.4c97ca4f.chunk.css",
@@ -10,12 +10,18 @@
     "static/js/2.574edb35.chunk.js.map": "/anthony-dominguez-86-react/static/js/2.574edb35.chunk.js.map",
     "index.html": "/anthony-dominguez-86-react/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/anthony-dominguez-86-react/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.6e99167f.chunk.css.map": "/anthony-dominguez-86-react/static/css/main.6e99167f.chunk.css.map",
+    "static/css/main.49688e87.chunk.css.map": "/anthony-dominguez-86-react/static/css/main.49688e87.chunk.css.map",
     "static/js/2.574edb35.chunk.js.LICENSE.txt": "/anthony-dominguez-86-react/static/js/2.574edb35.chunk.js.LICENSE.txt",
+    "static/media/E-commerce 1.917a805e.png": "/anthony-dominguez-86-react/static/media/E-commerce 1.917a805e.png",
+    "static/media/E-commerce 2.51ed044c.png": "/anthony-dominguez-86-react/static/media/E-commerce 2.51ed044c.png",
+    "static/media/Notetaker 1.970197d1.png": "/anthony-dominguez-86-react/static/media/Notetaker 1.970197d1.png",
+    "static/media/Notetaker 2.5c43df67.png": "/anthony-dominguez-86-react/static/media/Notetaker 2.5c43df67.png",
     "static/media/Practical Exchange3.cdeb19fd.png": "/anthony-dominguez-86-react/static/media/Practical Exchange3.cdeb19fd.png",
     "static/media/Practical Exchange5.4fee8bf7.png": "/anthony-dominguez-86-react/static/media/Practical Exchange5.4fee8bf7.png",
     "static/media/adominguez.abb1e919.jpg": "/anthony-dominguez-86-react/static/media/adominguez.abb1e919.jpg",
     "static/media/style.css": "/anthony-dominguez-86-react/static/media/bluebackground.b1f3d253.jpg",
+    "static/media/employee directory.10a92c0f.png": "/anthony-dominguez-86-react/static/media/employee directory.10a92c0f.png",
+    "static/media/employee directory3.f5c83432.png": "/anthony-dominguez-86-react/static/media/employee directory3.f5c83432.png",
     "static/media/screenshot10.e7d9976b.png": "/anthony-dominguez-86-react/static/media/screenshot10.e7d9976b.png",
     "static/media/screenshot8.debde9df.png": "/anthony-dominguez-86-react/static/media/screenshot8.debde9df.png",
     "static/media/weather dash 3.ef5db4b1.png": "/anthony-dominguez-86-react/static/media/weather dash 3.ef5db4b1.png",
@@ -25,7 +31,7 @@
     "static/js/runtime-main.2670e39b.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.574edb35.chunk.js",
-    "static/css/main.6e99167f.chunk.css",
-    "static/js/main.33e2a006.chunk.js"
+    "static/css/main.49688e87.chunk.css",
+    "static/js/main.c5b0d3ef.chunk.js"
   ]
 }
