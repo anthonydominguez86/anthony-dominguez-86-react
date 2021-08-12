@@ -41,9 +41,11 @@ body {
   .nav-link {
       color: white
   }
+
   .link {
       color:blue
   }
+
   section {
     width: 800px;
     margin-left: 30px;
@@ -57,8 +59,10 @@ body {
     margin: 40px;
     padding: 30px;
     width: 600px;
-    background-color:white;
+    height: fit-content;
+    background-color:whitesmoke;
   }
+
   h1 {
     color: black;
     padding: 10px;    
@@ -73,7 +77,7 @@ body {
   }
   
   aside {
-    background-color:#e8f8fd;
+    background-color:#d9dfe6;
     margin-top: 30px;
     margin-right: 30px;
     height: 1475px;
@@ -118,12 +122,15 @@ body {
           
             section,
             form,
-            footer,
             #inputMessage
              {
               width: 100%;
               padding: 10px;
               margin: 5px;
+            }
+
+            footer {
+              display: none;
             }
   
             aside {
@@ -143,12 +150,16 @@ body {
             section, 
             form,
             aside,
-            footer,
             #inputMessage
              {
               width: 100%;
+              height: fit-content;
               padding: 10px;
               margin: 5px;
+            }
+
+            footer {
+              display: none;
             }
           
             h1, 
