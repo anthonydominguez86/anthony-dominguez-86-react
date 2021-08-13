@@ -19,11 +19,11 @@ function About() {
           Please enjoy my work with professional links below, as well as some screenshots of my work in the portfolio link above each screenshot leads to the deployed website and 
           corresponding GitHub repository containing the code. 
           <hr></hr>
-          <a class="link" href="https://github.com/anthonydominguez86" target="Git Hub">Git Hub</a>
+          <a class="link" href="https://github.com/anthonydominguez86" target="Git Hub"><i class="fab fa-github-square fa-3x"></i> Git Hub</a>
           <br></br>
-          <a class="link" href="https://www.linkedin.com/in/anthony-dominguez-4884529b/" target="Linked In">Linked In</a>
+          <a class="link" href="https://www.linkedin.com/in/anthony-dominguez-4884529b/" target="Linked In"><i class="fab fa-linkedin fa-3x"></i> Linked In</a>
           <br></br>
-          <a class= "link" href="./assets/Resume Anthony Dominguez.docx" download="Resume">Resume</a>
+          <a class= "link" href="./assets/Resume Anthony Dominguez.docx" download="Resume"><i class="fas fa-envelope-open-text fa-3x"></i> Resume</a>
           <hr></hr>
           <br></br>
         </p> 
