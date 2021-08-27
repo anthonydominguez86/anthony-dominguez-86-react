@@ -1,8 +1,9 @@
 import React from 'react'
+import Navbar from "react-bootstrap/Navbar"
 import { Link, useLocation } from "react-router-dom";
 import './style.css'
 
-function Navbar(){
+function NavBar(){
 
     const location = useLocation();
 
@@ -10,6 +11,9 @@ function Navbar(){
     return (
         <nav class="navbar navbar-expand-lg navbar-dark" style={{backgroundColor: "black"}}>        
         <div class="container-fluid">
+          <Navbar>
+          <Navbar.Toggle aria-controls="basic-navbar-nav" />
+          <Navbar.Collapse id="basic-navbar-nav">
         <Link
           to="/"
           className={location.pathname === "/" ? "nav-link active" : "nav-link"}
@@ -33,18 +37,11 @@ function Navbar(){
         >
           Portfolio
         </Link>
-          {/* <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button> */}
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="nav nav-bar"> 
-              <li class="nav-item">
-              </li>
-            </ul>
-          </div>
+            </Navbar.Collapse>
+          </Navbar>
         </div>
       </nav>
     )
 }
 
-export default Navbar
+export default NavBar
