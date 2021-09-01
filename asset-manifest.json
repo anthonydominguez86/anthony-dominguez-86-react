@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/anthony-dominguez-86-react/static/css/main.300eb1d7.chunk.css",
-    "main.js": "/anthony-dominguez-86-react/static/js/main.c157fe9f.chunk.js",
-    "main.js.map": "/anthony-dominguez-86-react/static/js/main.c157fe9f.chunk.js.map",
+    "main.css": "/anthony-dominguez-86-react/static/css/main.ca5231f6.chunk.css",
+    "main.js": "/anthony-dominguez-86-react/static/js/main.2ac10ea6.chunk.js",
+    "main.js.map": "/anthony-dominguez-86-react/static/js/main.2ac10ea6.chunk.js.map",
     "runtime-main.js": "/anthony-dominguez-86-react/static/js/runtime-main.2670e39b.js",
     "runtime-main.js.map": "/anthony-dominguez-86-react/static/js/runtime-main.2670e39b.js.map",
     "static/css/2.9a5322c9.chunk.css": "/anthony-dominguez-86-react/static/css/2.9a5322c9.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.40a69b2e.chunk.js.map": "/anthony-dominguez-86-react/static/js/2.40a69b2e.chunk.js.map",
     "index.html": "/anthony-dominguez-86-react/index.html",
     "static/css/2.9a5322c9.chunk.css.map": "/anthony-dominguez-86-react/static/css/2.9a5322c9.chunk.css.map",
-    "static/css/main.300eb1d7.chunk.css.map": "/anthony-dominguez-86-react/static/css/main.300eb1d7.chunk.css.map",
+    "static/css/main.ca5231f6.chunk.css.map": "/anthony-dominguez-86-react/static/css/main.ca5231f6.chunk.css.map",
     "static/js/2.40a69b2e.chunk.js.LICENSE.txt": "/anthony-dominguez-86-react/static/js/2.40a69b2e.chunk.js.LICENSE.txt",
     "static/media/E-commerce 1.917a805e.png": "/anthony-dominguez-86-react/static/media/E-commerce 1.917a805e.png",
     "static/media/E-commerce 2.51ed044c.png": "/anthony-dominguez-86-react/static/media/E-commerce 2.51ed044c.png",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.2670e39b.js",
     "static/css/2.9a5322c9.chunk.css",
     "static/js/2.40a69b2e.chunk.js",
-    "static/css/main.300eb1d7.chunk.css",
-    "static/js/main.c157fe9f.chunk.js"
+    "static/css/main.ca5231f6.chunk.css",
+    "static/js/main.2ac10ea6.chunk.js"
   ]
 }
