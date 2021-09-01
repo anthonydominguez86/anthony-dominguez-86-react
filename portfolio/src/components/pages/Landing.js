@@ -39,7 +39,7 @@ function Landing() {
     />
     <Carousel.Caption>
       <h3>Ment2Trade</h3>
-      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+      <h5>MySQL | JQuery| Bootstrap | HandlebarsJS</h5>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -51,7 +51,7 @@ function Landing() {
 
     <Carousel.Caption>
       <h3>Employee Directory</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h5>HTML5 | CSS3 | React | JS</h5>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -63,7 +63,7 @@ function Landing() {
 
     <Carousel.Caption>
       <h3>Local Weather Dashboard</h3>
-      <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+      <h5>HTML5 | CSS3 | Bootstrap | API | JS</h5>
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
