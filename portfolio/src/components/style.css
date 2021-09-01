@@ -69,11 +69,15 @@ body {
     padding: 10px;    
   }
 
-  h3 {
+   h3 {
     color: black
   }
+
+  h5 {
+    color: black
+  } 
   
-  body{
+  body{ 
     color:black;
   }
   
