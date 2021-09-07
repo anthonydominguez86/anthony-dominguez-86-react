@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { HashRouter as Router, Route } from "react-router-dom";
 import NavBar from "./components/NavBar";
 import Landing from "./components/pages/Landing";
 import About from "./components/pages/About";
@@ -12,7 +12,7 @@ function App() {
     <Router>
       <div>
         <NavBar />
-        <Route path="/anthony-dominguez-86-react" exact component={Landing} />
+        <Route path="/" exact component={Landing} />
         <Route path="/about" exact component={About} />
         <Route path="/contact" exact component={Contact} />
         <Route path="/portfolio" exact component={Portfolio} />
