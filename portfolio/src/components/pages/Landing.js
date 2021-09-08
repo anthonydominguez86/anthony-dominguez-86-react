@@ -30,7 +30,7 @@ function Landing() {
           <hr></hr>
           <br></br>
         </p> 
-  {/* <Carousel>
+  <Carousel>
   <Carousel.Item>
     <img
       className="d-block w-100"
@@ -66,7 +66,7 @@ function Landing() {
       <h5>HTML5 | CSS3 | Bootstrap | API | JS</h5>
     </Carousel.Caption>
   </Carousel.Item>
-</Carousel> */}
+</Carousel>
   </section>
   </div>
 );
