@@ -64,13 +64,17 @@ body {
     background-color:whitesmoke;
   }
 
+  .caption {
+    background-color: black;
+  }
+
   h1 {
     color: black;
     padding: 10px;    
   }
 
    h3 {
-    color: black
+    color:black;
   }
 
   h5 {
