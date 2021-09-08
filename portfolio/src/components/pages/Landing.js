@@ -38,8 +38,10 @@ function Landing() {
       alt="Ment2Trade"
     />
     <Carousel.Caption>
+      <div className = "caption"/>
       <h3>Ment2Trade</h3>
       <h5>MySQL | JQuery| Bootstrap | HandlebarsJS</h5>
+      <div/>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
