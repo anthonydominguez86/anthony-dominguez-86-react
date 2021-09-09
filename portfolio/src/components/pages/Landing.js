@@ -32,12 +32,13 @@ function Landing() {
         </p> 
   <Carousel>
   <Carousel.Item>
+  
     <img
       className="d-block w-100"
       src={Image2}
       alt="Ment2Trade"
     />
-    <Carousel.Caption>
+<Carousel.Caption>
       <div className = "caption"/>
       <h3>Ment2Trade</h3>
       <h5>MySQL | JQuery| Bootstrap | HandlebarsJS</h5>
