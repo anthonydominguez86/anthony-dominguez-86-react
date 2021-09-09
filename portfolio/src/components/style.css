@@ -64,22 +64,23 @@ body {
     background-color:whitesmoke;
   }
 
-  .caption {
-    background-color: black;
-  }
-
+  
   h1 {
     color: black;
     padding: 10px;    
   }
-
-   h3 {
+  
+  h3 {
     color:black;
   }
-
+  
   h5 {
     color: black
   } 
+  
+  .caption {
+    background-color: black;
+  }
   
   body{ 
     color:black;
