@@ -23,7 +23,7 @@ function NavBar(){
           to="/about"
           className={location.pathname === "/about" ? "nav-link active" : "nav-link"}
         >
-          <h4>Anthony Dominguez</h4>
+          <h3>Anthony Dominguez</h3>
         </Link>
         <Link
           to="/contact"
