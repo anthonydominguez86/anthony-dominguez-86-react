@@ -39,9 +39,8 @@ function Landing() {
       alt="Ment2Trade"
     />
 <Carousel.Caption>
-      <div className = "caption"/>
-      <h3>Ment2Trade</h3>
-      <h5>MySQL | JQuery| Bootstrap | HandlebarsJS</h5>
+      <h4>Ment2Trade</h4>
+      <h6>MySQL | JQuery| Bootstrap | HandlebarsJS</h6>
       <div/>
     </Carousel.Caption>
   </Carousel.Item>
@@ -53,8 +52,8 @@ function Landing() {
     />
 
     <Carousel.Caption>
-      <h3>Employee Directory</h3>
-      <h5>HTML5 | CSS3 | React | JS</h5>
+      <h4>Employee Directory</h4>
+      <h6>HTML5 | CSS3 | React | JS</h6>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -65,8 +64,8 @@ function Landing() {
     />
 
     <Carousel.Caption>
-      <h3>Local Weather Dashboard</h3>
-      <h5>HTML5 | CSS3 | Bootstrap | API | JS</h5>
+      <h4>Local Weather Dashboard</h4>
+      <h6>HTML5 | CSS3 | Bootstrap | API | JS</h6>
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
