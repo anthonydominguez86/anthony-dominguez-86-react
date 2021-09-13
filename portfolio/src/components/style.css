@@ -1,6 +1,6 @@
 body {
     animation-name: backgroundColorPalette;
-      animation-duration: 3s;
+      animation-duration: 2s;
       animation-iteration-count:initial;
       animation-direction: alternate;
       animation-timing-function: linear; 
