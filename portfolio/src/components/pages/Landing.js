@@ -3,6 +3,10 @@ import Image from "../assets/adominguez.jpg"
 import Image2 from "../assets/screenshot8.png"
 import Image3 from "../assets/employee directory.png"
 import Image4 from "../assets/weather dash 4.png"
+import Image5 from "../assets/E-commerce 1.png"
+import Image6 from "../assets/budget tracker5.png"
+
+
 import Carousel from 'react-bootstrap/Carousel'
 
 function Landing() {
@@ -32,17 +36,16 @@ function Landing() {
         </p> 
   <Carousel>
   <Carousel.Item>
-  
     <img
       className="d-block w-100"
       src={Image2}
       alt="Ment2Trade"
     />
-<Carousel.Caption>
+  <Carousel.Caption>
       <h4>Ment2Trade</h4>
       <h6>MySQL | JQuery| Bootstrap | HandlebarsJS</h6>
       <div/>
-    </Carousel.Caption>
+  </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
     <img
@@ -67,6 +70,30 @@ function Landing() {
       <h4>Local Weather Dashboard</h4>
       <h6>HTML5 | CSS3 | Bootstrap | API | JS</h6>
     </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src={Image5}
+      alt="E-commerce CLI"
+    />
+  <Carousel.Caption>
+      <h4>E-commerce CLI</h4>
+      <h6>MySQL | Sequelize | MySQL Workbench | Express</h6>
+      <div/>
+  </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src={Image6}
+      alt="Budget Tracker "
+    />
+  <Carousel.Caption>
+      <h4>Budget Tracker</h4>
+      <h6>PWA | API | Mongoose | Express</h6>
+      <div/>
+  </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
   </section>
