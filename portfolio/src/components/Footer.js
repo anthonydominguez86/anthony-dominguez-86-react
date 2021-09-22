@@ -5,7 +5,7 @@ function Footer(){
     return (
         <footer>
             <ul className="footer">
-                {/* <p>Copyright © Anthony Dominguez</p> */}
+                <p>Copyright © Anthony Dominguez</p>
             </ul>
         </footer>
     )
