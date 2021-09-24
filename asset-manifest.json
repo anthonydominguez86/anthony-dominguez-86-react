@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/anthony-dominguez-86-react/static/css/main.0be3f2d0.chunk.css",
-    "main.js": "/anthony-dominguez-86-react/static/js/main.6528fa91.chunk.js",
-    "main.js.map": "/anthony-dominguez-86-react/static/js/main.6528fa91.chunk.js.map",
+    "main.js": "/anthony-dominguez-86-react/static/js/main.c22db413.chunk.js",
+    "main.js.map": "/anthony-dominguez-86-react/static/js/main.c22db413.chunk.js.map",
     "runtime-main.js": "/anthony-dominguez-86-react/static/js/runtime-main.2670e39b.js",
     "runtime-main.js.map": "/anthony-dominguez-86-react/static/js/runtime-main.2670e39b.js.map",
     "static/css/2.9a5322c9.chunk.css": "/anthony-dominguez-86-react/static/css/2.9a5322c9.chunk.css",
@@ -33,6 +33,6 @@
     "static/css/2.9a5322c9.chunk.css",
     "static/js/2.da02d81e.chunk.js",
     "static/css/main.0be3f2d0.chunk.css",
-    "static/js/main.6528fa91.chunk.js"
+    "static/js/main.c22db413.chunk.js"
   ]
 }
